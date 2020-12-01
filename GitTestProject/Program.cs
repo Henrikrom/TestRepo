@@ -13,6 +13,11 @@ namespace GitTestProject
         {
             Console.WriteLine("New feature");
         }
+        
+        public void newFeat2()
+        {
+            Console.WriteLine("New feature");
+        }
     }
 
     
