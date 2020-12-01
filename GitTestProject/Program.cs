@@ -8,5 +8,12 @@ namespace GitTestProject
         {
             Console.WriteLine("Hello World!");
         }
+
+        public void newFeat()
+        {
+            Console.WriteLine("New feature");
+        }
     }
+
+    
 }
