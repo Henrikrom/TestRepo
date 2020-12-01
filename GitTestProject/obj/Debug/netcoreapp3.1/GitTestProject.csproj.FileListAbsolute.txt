@@ -1,0 +1,13 @@
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.exe
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.deps.json
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.runtimeconfig.json
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.runtimeconfig.dev.json
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.dll
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.pdb
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.csprojAssemblyReference.cache
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.AssemblyInfoInputs.cache
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.AssemblyInfo.cs
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.dll
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.pdb
+C:\Users\HenrikBjørnerudRomne\source\repos\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.genruntimeconfig.cache
