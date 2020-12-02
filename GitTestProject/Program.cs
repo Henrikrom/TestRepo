@@ -7,7 +7,18 @@ namespace GitTestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-        }        
-        //comment
-    }    
+        }
+
+        public void masterBranch()
+        {
+            Console.WriteLine("master");
+        } 
+
+        public void f()
+        {
+            Console.WriteLine("jji");
+        }
+        
+
+    }                
 }
