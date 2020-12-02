@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HenrikBjørnerudRomne\\source\\repos\\GitTestProject\\GitTestProject\\GitTestProject.csproj": {}
+    "C:\\Users\\HenrikBjørnerudRomne\\Desktop\\Testrepo\\GitTestProject\\GitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HenrikBjørnerudRomne\\source\\repos\\GitTestProject\\GitTestProject\\GitTestProject.csproj": {
+    "C:\\Users\\HenrikBjørnerudRomne\\Desktop\\Testrepo\\GitTestProject\\GitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HenrikBjørnerudRomne\\source\\repos\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\HenrikBjørnerudRomne\\Desktop\\Testrepo\\GitTestProject\\GitTestProject.csproj",
         "projectName": "GitTestProject",
-        "projectPath": "C:\\Users\\HenrikBjørnerudRomne\\source\\repos\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
+        "projectPath": "C:\\Users\\HenrikBjørnerudRomne\\Desktop\\Testrepo\\GitTestProject\\GitTestProject.csproj",
         "packagesPath": "C:\\Users\\HenrikBjørnerudRomne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HenrikBjørnerudRomne\\source\\repos\\GitTestProject\\GitTestProject\\obj\\",
+        "outputPath": "C:\\Users\\HenrikBjørnerudRomne\\Desktop\\Testrepo\\GitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HenrikBjørnerudRomne\\AppData\\Roaming\\NuGet\\NuGet.Config",
