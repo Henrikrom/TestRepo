@@ -9,8 +9,10 @@ namespace GitTestProject
             Console.WriteLine("Hello World!");
         }
 
+        public void masterBranch()
+        {
+            Console.WriteLine("master");
+        }
         
-    }
-
-    
+    }    
 }
