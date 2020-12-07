@@ -12,8 +12,6 @@ namespace GitTestProject
             Console.WriteLine("Hello World!");
         }       
 
-        //idjirg
-        //kefefjf
-
+        
     }                
 }
